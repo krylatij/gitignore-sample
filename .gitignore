@@ -1,1 +1,11 @@
 node_modules/
+
+
+**/z*
+
+z*
+
+.env
+
+
+artifacts/
